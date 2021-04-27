@@ -1,0 +1,30 @@
+body {
+		background-color: #242A4B;
+		color: white;
+		font-family: 'Cabin', sans-serif;
+}
+
+
+.titre{
+	text-align: center;
+	margin: 30px;
+
+}
+
+.cercle {
+	padding: 3rem 3rem;
+    margin: 30px;
+    color: #ffffff;
+    background-color: #2B335B;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+.question {
+	font-weight: 900;
+}
+
+.espace { height : 20px; }
